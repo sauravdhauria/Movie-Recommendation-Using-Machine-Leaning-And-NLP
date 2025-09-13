@@ -1,0 +1,2 @@
+# Movie-Recommendation-Using-Machine-Leaning-And-NLP
+This is a streamlit web application that can recommend various kinds of similar movies based on an user interest. here is a demo,
