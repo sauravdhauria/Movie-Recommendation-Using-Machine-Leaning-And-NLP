@@ -51,7 +51,7 @@ def recommend(movie):
 # Streamlit App
 # -------------------
 
-st.header("🎥 Movie 🍿 Recommendation System Using Machine Learning")
+st.header("🎥 𝗠🅾𝗩𝗜𝗘 🍿 𝗥🅴𝗖𝗢𝗠𝗠𝗘𝗡𝗗𝗔𝗧𝗜𝗢𝗡 🎞 𝗦𝗬𝗦𝗧𝗘𝗠 𝗨𝗦𝗜𝗡𝗚 🤖 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚")
 
 os.makedirs("artificats", exist_ok=True)
 
