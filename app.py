@@ -92,7 +92,7 @@ except Exception as e:
 # Movie selection
 movies_list = movies['title'].values
 selected_movie = st.selectbox(
-    'Type or select a movie to get recommendation',
+    'Type or Select a Movie to get Recommendation',
     movies_list
 )
 
